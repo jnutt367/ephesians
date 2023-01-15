@@ -13,12 +13,12 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-      The Book Of
+     EPHESIANS
         </h1>
          <div className={styles.hero}>
        <Image 
-                                src="/Ephesians_1.jpg"
-                                alt="Jesus teaching"
+                                src="/trust.webp"
+                                alt="mug image"
                                 height={900}
                                 width={2000}
                                 priority

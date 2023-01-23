@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
          <div className={styles.hero}>
        <Image 
-                                src="/vector-illustration-jesus-praying-gethsemane.avif
+                                src="/vector-illustration-jesus-praying-gethsemane.avif"
                                 alt="mug image"
                                 height={900}
                                 width={2000}

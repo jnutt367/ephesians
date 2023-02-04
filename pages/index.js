@@ -12,10 +12,17 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-     EPHESIANS
-        </h1>
+     
          <div className={styles.hero}>
+             <h2 className={styles.holy}>THE HOLY</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">BIBLE</a>
+                </h1>
+        
+        <h1 className={styles.title}>
+        EPHESIANS
+        </h1>
+         <div  className={styles.image}>
        <Image 
                                 src="/vector-illustration-jesus-praying-gethsemane.avif"
                                 alt="mug image"
@@ -23,6 +30,7 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
+        </div>
                     <div className={styles.nav}>      
           <a href="https://the-holy-bible.vercel.app/">
             <button className={styles.button}> HOME </button>

@@ -31,21 +31,39 @@ export default function Home() {
                                 priority
                               />
         </div>
-                    <div className={styles.nav}>      
-          <a href="https://the-holy-bible.vercel.app/">
-            <button className={styles.button}> HOME </button>
+                    <div className={styles.nav}>           
+      <a href="https://galatians.vercel.app/">
+             <Image 
+                                src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
+                                alt="Jesus"
+                                 height={100}
+                                width={100}
+                                priority
+                              />
        </a>
 
          <a href="#PayPalButton">
-            <button className={styles.button}>CONTRIBUTE </button>
+            <Image 
+                                src="/SCROLL-DOWN-button-kopie1.gif"
+                                alt="Jesus"
+                                 height={100}
+                                width={100}
+                                priority
+                              />
+           
         </a> 
-         <a href="https://galatians.vercel.app/">
-            <button className={styles.button}>PREV </button>
-       </a>           
-        <a href="https://phillipians.vercel.app/">
-            <button className={styles.button}>NEXT > </button>
-       </a>               
-                </div>
+         <a href="https://phillipians.vercel.app/">
+           <Image 
+                                src="/jean_victor_balin_arrow_orange_right.png"
+                                alt="Jesus"
+                                 height={100}
+                                width={100}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2>Chapter 1 &darr;</h2>

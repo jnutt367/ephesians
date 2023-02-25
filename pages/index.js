@@ -36,8 +36,8 @@ export default function Home() {
              <Image 
                                 src="/chevron-left.svg"
                                 alt="left"
-                                 height={100}
-                                width={100}
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>

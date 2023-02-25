@@ -66,7 +66,7 @@ export default function Home() {
                </div>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2>Chapter 1 &darr;</h2>
+            <h2 className={styles.chapter}>Ephesians Chapter I </h2>
             <p>1 Paul, an apostle of Christ Jesus by the will of God,
 
 To God’s holy people in Ephesus,[a] the faithful in Christ Jesus:
@@ -83,7 +83,7 @@ Thanksgiving and Prayer
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 2 &darr;</h2>
+            <h2 className={styles.chapter}>Ephesians Chapter II </h2>
             <p>
             Made Alive in Christ
 2 As for you, you were dead in your transgressions and sins, 2 in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient. 3 All of us also lived among them at one time, gratifying the cravings of our flesh[a] and following its desires and thoughts. Like the rest, we were by nature deserving of wrath. 4 But because of his great love for us, God, who is rich in mercy, 5 made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved. 6 And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus, 7 in order that in the coming ages he might show the incomparable riches of his grace, expressed in his kindness to us in Christ Jesus. 8 For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God— 9 not by works, so that no one can boast. 10 For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.
@@ -102,7 +102,7 @@ Jew and Gentile Reconciled Through Christ
           <div
             className={styles.card}
           >
-            <h2>Chapter 3 &darr;</h2>
+           <h2 className={styles.chapter}>Ephesians Chapter III </h2>
             <p>
             God’s Marvelous Plan for the Gentiles
 3 For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles—
@@ -122,7 +122,7 @@ A Prayer for the Ephesians
 
           <div className={styles.card}
           >
-            <h2>Chapter 4 &darr;</h2>
+            <h2 className={styles.chapter}>Ephesians Chapter IV </h2>
             <p>
             Unity and Maturity in the Body of Christ
 4 As a prisoner for the Lord, then, I urge you to live a life worthy of the calling you have received. 2 Be completely humble and gentle; be patient, bearing with one another in love. 3 Make every effort to keep the unity of the Spirit through the bond of peace. 4 There is one body and one Spirit, just as you were called to one hope when you were called; 5 one Lord, one faith, one baptism; 6 one God and Father of all, who is over all and through all and in all.
@@ -152,7 +152,7 @@ Instructions for Christian Living
 
           <div className={styles.card}
           >
-            <h2>Chapter 5 &darr;</h2>
+            <h2 className={styles.chapter}>Ephesians Chapter V </h2>
             <p>
             5 1 Follow God’s example, therefore, as dearly loved children 2 and walk in the way of love, just as Christ loved us and gave himself up for us as a fragrant offering and sacrifice to God.
 
@@ -177,7 +177,7 @@ Instructions for Christian Households
 
           <div className={styles.card}
           >
-            <h2>Chapter 6 &darr;</h2>
+            <h2 className={styles.chapter}>Ephesians Chapter VI </h2>
             <p>
             6 Children, obey your parents in the Lord, for this is right. 2 “Honor your father and mother”—which is the first commandment with a promise— 3 “so that it may go well with you and that you may enjoy long life on the earth.”[a]
 

@@ -64,6 +64,8 @@ export default function Home() {
         </a> 
          
                </div>
+      <p className={styles.fund}>
+(Ephesians 4:2-3) "Be completely humble and gentle; be patient, bearing with one another in love. Make every effort to keep the unity of the Spirit through the bond of peace."</p>
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2 className={styles.chapter}>Ephesians Chapter I </h2>

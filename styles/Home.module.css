@@ -345,7 +345,7 @@
     max-height: 400px;
     max-width: 400px;
     background-color: black;
-    border-radius: 15px 50px 30px;
+    border-radius: 15px 50px 30px 5px;
     overflow: hidden;
     text-decoration: none;
     border: 3px solid #eaeaea;

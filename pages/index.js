@@ -24,7 +24,7 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/vector-illustration-jesus-praying-gethsemane.avif"
+                                src="/risen_32.png"
                                 alt="mug image"
                                 height={900}
                                 width={2000}
@@ -39,8 +39,8 @@ export default function Home() {
              <Image 
                                 src="/chevron-left.svg"
                                 alt="left"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>
@@ -68,7 +68,7 @@ export default function Home() {
          
                </div>
     <div claccName={styles.iframe}>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Y71r-T98E2Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Y71r-T98E2Q?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
                                   
         <div className={styles.grid}>

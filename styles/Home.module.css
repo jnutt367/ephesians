@@ -336,7 +336,7 @@
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
-    color: black;
+    color: transparent;
     margin: 1.5rem;
     margin-bottom: 5rem;
     padding: 0rem;

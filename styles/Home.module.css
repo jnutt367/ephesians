@@ -326,7 +326,7 @@
 }
 
 .card {
-    background-image: url(/risen_43.png);
+    background-image: url(/risen_32.png);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
@@ -354,7 +354,7 @@
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
-    background-color: #cc3392;
+    background-color:#33CC6D;
     color: white;
     opacity: 0.8;
     opacity: 1;

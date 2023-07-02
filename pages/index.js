@@ -16,7 +16,7 @@ export default function Home() {
          <div className={styles.hero}>
              <h2 className={styles.holy}>THE HOLY</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-holy-bible.vercel.app/" target="_blank">BIBLE</a>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">BIBLE</a>
                 </h1>
         
         <h1 className={styles.title}>
@@ -31,6 +31,9 @@ export default function Home() {
                                 priority
                               />
         </div>
+
+  <p className={styles.parables}>
+(Ephesians 4:2-3) "Be completely humble and gentle; be patient, bearing with one another in love. Make every effort to keep the unity of the Spirit through the bond of peace."</p>
                     <div className={styles.nav}>           
       <a href="https://galatians.vercel.app/">
              <Image 
@@ -42,12 +45,12 @@ export default function Home() {
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
             <Image 
-                                src="/chevron-down.svg"
+                                src="/youtube-logo-png-hd-21.png"
                                 alt="down"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
@@ -55,17 +58,19 @@ export default function Home() {
          <a href="https://phillipians.vercel.app/">
            <Image 
                                 src="/chevron-right.svg"
-                                alt="Jesus"
-                                 height={25}
-                                width={25}
+                                alt="right arrow"
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
         </a> 
          
                </div>
-      <p className={styles.fund}>
-(Ephesians 4:2-3) "Be completely humble and gentle; be patient, bearing with one another in love. Make every effort to keep the unity of the Spirit through the bond of peace."</p>
+    <div claccName={styles.iframe}>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Y71r-T98E2Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+                                  
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2 className={styles.chapter}>Ephesians Chapter I </h2>

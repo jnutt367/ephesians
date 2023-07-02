@@ -294,7 +294,7 @@
 }
 
 .grid {
-    background-color: #CC3392;
+    background-color: #33CC6D;
     color: white;
     display: flex;
     align-items: center;
@@ -336,7 +336,7 @@
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
-    color: transparent;
+    color: black;
     margin: 1.5rem;
     margin-bottom: 5rem;
     padding: 0rem;
@@ -355,7 +355,7 @@
 }
 .chapter {
     background-color:#33CC6D;
-    color: white;
+    color: black;
     opacity: 0.8;
     opacity: 1;
     position: sticky;
@@ -376,7 +376,7 @@
     display: inline;
     color: black;
     opacity: 1;
-    border: 6px solid #33CC6D;
+    border: 6px solid #CC3392;
     background-image: url(/paper.jpeg);
     background-repeat: no-repeat;
     background-size: cover;

@@ -271,7 +271,7 @@
 }
 
 .nav {
-    background-color:#33CC6D;
+    background-color:#703c45;
     color: white;
     opacity: 1;
     padding: 5px;
@@ -294,7 +294,7 @@
 }
 
 .grid {
-    background-color: #33CC6D;
+    background-color: #703c45;
     color: white;
     display: flex;
     align-items: center;
@@ -348,13 +348,13 @@
     border-radius: 15px 50px 30px 5px;
     overflow: hidden;
     text-decoration: none;
-    border: 3px solid #eaeaea;
+    border: 3px solid black;
     transition: color 0.15s ease, border-color 0.7s ease;
     font-family: monospace;
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
-    background-color:#33CC6D;
+    background-color:#703c45;
     color: black;
     opacity: 0.8;
     opacity: 1;
@@ -376,7 +376,7 @@
     display: inline;
     color: black;
     opacity: 1;
-    border: 6px solid #0F3B1F;
+    border: 6px solid red;
     background-image: url(/paper.jpeg);
     background-repeat: no-repeat;
     background-size: cover;

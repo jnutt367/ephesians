@@ -39,30 +39,30 @@ In prison, Paul defines the REAL church--NOT a building built BY people, but MAD
                     <div className={styles.nav}>           
       <a href="https://galatians.vercel.app/">
              <Image 
-                                src="/chevron-left.svg"
+                                src="/previous.webp"
                                 alt="left"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>
 
          <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
             <Image 
-                                src="/youtube-logo-png-hd-21.png"
-                                alt="down"
+                                src="/upward_pointing.webp"
+                                alt="home"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
            
         </a> 
          <a href="https://phillipians.vercel.app/">
            <Image 
-                                src="/chevron-right.svg"
+                                src="/next.webp"
                                 alt="right arrow"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
            
@@ -70,7 +70,7 @@ In prison, Paul defines the REAL church--NOT a building built BY people, but MAD
          
                </div>
     <div className={styles.iframe}>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Y71r-T98E2Q?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Y71r-T98E2Q?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
                                   
         <div className={styles.grid}>

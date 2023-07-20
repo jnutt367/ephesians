@@ -49,8 +49,8 @@ In prison, Paul defines the REAL church--NOT a building built BY people, but MAD
 
          <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
             <Image 
-                                src="/upward_pointing.webp"
-                                alt="home"
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
                                  height={75}
                                 width={90}
                                 priority

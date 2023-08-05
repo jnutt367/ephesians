@@ -442,6 +442,131 @@ Final Greetings
         </p>
       </main>
 
+
+<main id="second_john" className={styles.main}>
+       
+        <div id="first_thessalonians" className={styles.hero}>
+                <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        <h1 className={styles.title}>
+       II JOHN
+        </h1>
+          <div className={styles.image}>
+                           <Image 
+                                                    src="/first_john.png"
+                                                    alt="john_hero.png"
+                                                    height={900}
+                                                    width={2000}
+                                                    priority
+                                                  />
+                          
+
+                        </div>
+    <p className={styles.parables}>
+
+         Second John will have description soon
+</p>                                                      
+                  <div className={styles.nav2}>           
+      <a href="https://romans-five.vercel.app/#james">
+             <Image 
+                                src="/previous.webp"
+                                alt="prev"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+        
+      <a href="https://cash.app/$JNutt367">
+              <Image className={styles.arrow}
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
+                                height={75}
+                                width={90}
+                                priority
+                              /> 
+       </a>
+         <a href="https://first-thessalonians.vercel.app/">
+           <Image 
+                                src="/next.webp"
+                                alt="next"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+               <div className={styles.iframe}> 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/l3QkE6nKylM?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                     
+                                  </div>
+                                  
+                              
+        <div className={styles.grid2}>
+          <div className={styles.card2}>
+           <h2  className={styles.chapter2}>II John</h2>
+            <p> 
+                                                                                                    1 The elder,
+                                          
+                                          To the lady chosen by God and to her children, whom I love in the truth—and not I only, but also all who know the truth— 2 because of the truth, which lives in us and will be with us forever:
+                                          
+                                          3 Grace, mercy and peace from God the Father and from Jesus Christ, the Father’s Son, will be with us in truth and love.
+                                          
+                                          4 It has given me great joy to find some of your children walking in the truth, just as the Father commanded us. 5 And now, dear lady, I am not writing you a new command but one we have had from the beginning. I ask that we love one another. 6 And this is love: that we walk in obedience to his commands. As you have heard from the beginning, his command is that you walk in love.
+                                          
+                                          7 I say this because many deceivers, who do not acknowledge Jesus Christ as coming in the flesh, have gone out into the world. Any such person is the deceiver and the antichrist. 8 Watch out that you do not lose what we[a] have worked for, but that you may be rewarded fully. 9 Anyone who runs ahead and does not continue in the teaching of Christ does not have God; whoever continues in the teaching has both the Father and the Son. 10 If anyone comes to you and does not bring this teaching, do not take them into your house or welcome them. 11 Anyone who welcomes them shares in their wicked work.
+                                          
+                                          12 I have much to write to you, but I do not want to use paper and ink. Instead, I hope to visit you and talk with you face to face, so that our joy may be complete.
+                                          
+                                          13 The children of your sister, who is chosen by God, send their greetings.
+
+
+
+            </p>
+          </div>
+
+         
+          <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
+            <p>
+            I have appended 1 Thessalonians to the bottom of 1 corinthians...
+            I have appended 2 Thessalonians to the bottom of 2 corinthians...
+            I have appended 1 Timothy to the bottom of the gospel of Matthew...
+            I have appended 2 Timothy to the bottom of the gospel of Mark...
+            I have appended Titus to the bottom of the gospel of Luke...
+            I have appended Philemon to the bottom of the gospel of John...
+            I have appended Hebrews to the bottom of the book of Acts ...
+            I have appended James to the bottom of Romans ...
+            I have appended I Peter to the bottom of Galatians
+            I have appended II Peter to the bottom of I Peter ...
+            I have appended I John to the bottom of Ephesians ...  
+            I have appended II John to the bottom of I John ...
+            I will be appending III John to the bottom of II John ...
+            I will be appending Jude to the bottom of Philippians ...
+                        More to come on the layout...!
+     </p>
+          </div>
+
+
+     
+
+        </div>
+</div>
+        <p className={styles.description}> 
+        <code className={styles.publisher}>
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </code>
+        </p>
+      </main>
+
+
+
+                          
             
     </div>
   )

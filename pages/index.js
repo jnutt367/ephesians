@@ -281,147 +281,130 @@ Final Greetings
           <div className={styles.card2}>
            <h2  className={styles.chapter2}>I John Chapter I</h2>
             <p> 
-                                                                        1 Peter, an apostle of Jesus Christ,
-                                                
-                                                To God’s elect, exiles scattered throughout the provinces of Pontus, Galatia, Cappadocia, Asia and Bithynia, 2 who have been chosen according to the foreknowledge of God the Father, through the sanctifying work of the Spirit, to be obedient to Jesus Christ and sprinkled with his blood:
-                                                
-                                                Grace and peace be yours in abundance.
-                                                
-                                                Praise to God for a Living Hope
-                                                3 Praise be to the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead, 4 and into an inheritance that can never perish, spoil or fade. This inheritance is kept in heaven for you, 5 who through faith are shielded by God’s power until the coming of the salvation that is ready to be revealed in the last time. 6 In all this you greatly rejoice, though now for a little while you may have had to suffer grief in all kinds of trials. 7 These have come so that the proven genuineness of your faith—of greater worth than gold, which perishes even though refined by fire—may result in praise, glory and honor when Jesus Christ is revealed. 8 Though you have not seen him, you love him; and even though you do not see him now, you believe in him and are filled with an inexpressible and glorious joy, 9 for you are receiving the end result of your faith, the salvation of your souls.
-                                                
-                                                10 Concerning this salvation, the prophets, who spoke of the grace that was to come to you, searched intently and with the greatest care, 11 trying to find out the time and circumstances to which the Spirit of Christ in them was pointing when he predicted the sufferings of the Messiah and the glories that would follow. 12 It was revealed to them that they were not serving themselves but you, when they spoke of the things that have now been told you by those who have preached the gospel to you by the Holy Spirit sent from heaven. Even angels long to look into these things.
-                                                
-                                                Be Holy
-                                                13 Therefore, with minds that are alert and fully sober, set your hope on the grace to be brought to you when Jesus Christ is revealed at his coming. 14 As obedient children, do not conform to the evil desires you had when you lived in ignorance. 15 But just as he who called you is holy, so be holy in all you do; 16 for it is written: “Be holy, because I am holy.”[a]
-                                                
-                                                17 Since you call on a Father who judges each person’s work impartially, live out your time as foreigners here in reverent fear. 18 For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life handed down to you from your ancestors, 19 but with the precious blood of Christ, a lamb without blemish or defect. 20 He was chosen before the creation of the world, but was revealed in these last times for your sake. 21 Through him you believe in God, who raised him from the dead and glorified him, and so your faith and hope are in God.
-                                                
-                                                22 Now that you have purified yourselves by obeying the truth so that you have sincere love for each other, love one another deeply, from the heart.[b] 23 For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God. 24 For,
-                                                
-                                                “All people are like grass,
-                                                    and all their glory is like the flowers of the field;
-                                                the grass withers and the flowers fall,
-                                                25     but the word of the Lord endures forever.”[c]
-                                                
-                                                And this is the word that was preached to you.
+                                                               The Incarnation of the Word of Life
+                                        1 That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked at and our hands have touched—this we proclaim concerning the Word of life. 2 The life appeared; we have seen it and testify to it, and we proclaim to you the eternal life, which was with the Father and has appeared to us. 3 We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And our fellowship is with the Father and with his Son, Jesus Christ. 4 We write this to make our[a] joy complete.
+                                        
+                                        Light and Darkness, Sin and Forgiveness
+                                        5 This is the message we have heard from him and declare to you: God is light; in him there is no darkness at all. 6 If we claim to have fellowship with him and yet walk in the darkness, we lie and do not live out the truth. 7 But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus, his Son, purifies us from all[b] sin.
+                                        
+                                        8 If we claim to be without sin, we deceive ourselves and the truth is not in us. 9 If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness. 10 If we claim we have not sinned, we make him out to be a liar and his word is not in us.
 
 
-  </p>
+
+            </p>
           </div>
 
           <div className={styles.card2}>
             <h2 className={styles.chapter2}>I John Chapter II</h2>
             <p> 
-                                                                                   2 Therefore, rid yourselves of all malice and all deceit, hypocrisy, envy, and slander of every kind. 2 Like newborn babies, crave pure spiritual milk, so that by it you may grow up in your salvation, 3 now that you have tasted that the Lord is good.
-                                                                
-                                                                The Living Stone and a Chosen People
-                                                                4 As you come to him, the living Stone—rejected by humans but chosen by God and precious to him— 5 you also, like living stones, are being built into a spiritual house[a] to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ. 6 For in Scripture it says:
-                                                                
-                                                                “See, I lay a stone in Zion,
-                                                                    a chosen and precious cornerstone,
-                                                                and the one who trusts in him
-                                                                    will never be put to shame.”[b]
-                                                                
-                                                                7 Now to you who believe, this stone is precious. But to those who do not believe,
-                                                                
-                                                                “The stone the builders rejected
-                                                                    has become the cornerstone,”[c]
-                                                                
-                                                                8 and,
-                                                                
-                                                                “A stone that causes people to stumble
-                                                                    and a rock that makes them fall.”[d]
-                                                                
-                                                                They stumble because they disobey the message—which is also what they were destined for.
-                                                                
-                                                                9 But you are a chosen people, a royal priesthood, a holy nation, God’s special possession, that you may declare the praises of him who called you out of darkness into his wonderful light. 10 Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy.
-                                                                
-                                                                Living Godly Lives in a Pagan Society
-                                                                11 Dear friends, I urge you, as foreigners and exiles, to abstain from sinful desires, which wage war against your soul. 12 Live such good lives among the pagans that, though they accuse you of doing wrong, they may see your good deeds and glorify God on the day he visits us.
-                                                                
-                                                                13 Submit yourselves for the Lord’s sake to every human authority: whether to the emperor, as the supreme authority, 14 or to governors, who are sent by him to punish those who do wrong and to commend those who do right. 15 For it is God’s will that by doing good you should silence the ignorant talk of foolish people. 16 Live as free people, but do not use your freedom as a cover-up for evil; live as God’s slaves. 17 Show proper respect to everyone, love the family of believers, fear God, honor the emperor.
-                                                                
-                                                                18 Slaves, in reverent fear of God submit yourselves to your masters, not only to those who are good and considerate, but also to those who are harsh. 19 For it is commendable if someone bears up under the pain of unjust suffering because they are conscious of God. 20 But how is it to your credit if you receive a beating for doing wrong and endure it? But if you suffer for doing good and you endure it, this is commendable before God. 21 To this you were called, because Christ suffered for you, leaving you an example, that you should follow in his steps.
-                                                                
-                                                                22 “He committed no sin,
-                                                                    and no deceit was found in his mouth.”[e]
-                                                                
-                                                                23 When they hurled their insults at him, he did not retaliate; when he suffered, he made no threats. Instead, he entrusted himself to him who judges justly. 24 “He himself bore our sins” in his body on the cross, so that we might die to sins and live for righteousness; “by his wounds you have been healed.” 25 For “you were like sheep going astray,”[f] but now you have returned to the Shepherd and Overseer of your souls.
-  </p>
-          </div>
+                                                                                                                                     2 My dear children, I write this to you so that you will not sin. But if anybody does sin, we have an advocate with the Father—Jesus Christ, the Righteous One. 2 He is the atoning sacrifice for our sins, and not only for ours but also for the sins of the whole world.
+                                                          
+                                                          Love and Hatred for Fellow Believers
+                                                          3 We know that we have come to know him if we keep his commands. 4 Whoever says, “I know him,” but does not do what he commands is a liar, and the truth is not in that person. 5 But if anyone obeys his word, love for God[a] is truly made complete in them. This is how we know we are in him: 6 Whoever claims to live in him must live as Jesus did.
+                                                          
+                                                          7 Dear friends, I am not writing you a new command but an old one, which you have had since the beginning. This old command is the message you have heard. 8 Yet I am writing you a new command; its truth is seen in him and in you, because the darkness is passing and the true light is already shining.
+                                                          
+                                                          9 Anyone who claims to be in the light but hates a brother or sister[b] is still in the darkness. 10 Anyone who loves their brother and sister[c] lives in the light, and there is nothing in them to make them stumble. 11 But anyone who hates a brother or sister is in the darkness and walks around in the darkness. They do not know where they are going, because the darkness has blinded them.
+                                                          
+                                                          Reasons for Writing
+                                                          12 I am writing to you, dear children,
+                                                              because your sins have been forgiven on account of his name.
+                                                          13 I am writing to you, fathers,
+                                                              because you know him who is from the beginning.
+                                                          I am writing to you, young men,
+                                                              because you have overcome the evil one.
+                                                          
+                                                          14 I write to you, dear children,
+                                                              because you know the Father.
+                                                          I write to you, fathers,
+                                                              because you know him who is from the beginning.
+                                                          I write to you, young men,
+                                                              because you are strong,
+                                                              and the word of God lives in you,
+                                                              and you have overcome the evil one.
+                                                          
+                                                          On Not Loving the World
+                                                          15 Do not love the world or anything in the world. If anyone loves the world, love for the Father[d] is not in them. 16 For everything in the world—the lust of the flesh, the lust of the eyes, and the pride of life—comes not from the Father but from the world. 17 The world and its desires pass away, but whoever does the will of God lives forever.
+                                                          
+                                                          Warnings Against Denying the Son
+                                                          18 Dear children, this is the last hour; and as you have heard that the antichrist is coming, even now many antichrists have come. This is how we know it is the last hour. 19 They went out from us, but they did not really belong to us. For if they had belonged to us, they would have remained with us; but their going showed that none of them belonged to us.
+                                                          
+                                                          20 But you have an anointing from the Holy One, and all of you know the truth.[e] 21 I do not write to you because you do not know the truth, but because you do know it and because no lie comes from the truth. 22 Who is the liar? It is whoever denies that Jesus is the Christ. Such a person is the antichrist—denying the Father and the Son. 23 No one who denies the Son has the Father; whoever acknowledges the Son has the Father also.
+                                                          
+                                                          24 As for you, see that what you have heard from the beginning remains in you. If it does, you also will remain in the Son and in the Father. 25 And this is what he promised us—eternal life.
+                                                          
+                                                          26 I am writing these things to you about those who are trying to lead you astray. 27 As for you, the anointing you received from him remains in you, and you do not need anyone to teach you. But as his anointing teaches you about all things and as that anointing is real, not counterfeit—just as it has taught you, remain in him.
+                                                          
+                                                          God’s Children and Sin
+                                                          28 And now, dear children, continue in him, so that when he appears we may be confident and unashamed before him at his coming.
+                                                          
+                                                          29 If you know that he is righteous, you know that everyone who does what is right has been born of him.
+                                                          
+
+                  </p>
+                          </div>
 
           <div
             className={styles.card2}
           >
             <h2 className={styles.chapter2}>I John Chapter III </h2>
-                    <p>
-                                                                              3 Wives, in the same way submit yourselves to your own husbands so that, if any of them do not believe the word, they may be won over without words by the behavior of their wives, 2 when they see the purity and reverence of your lives. 3 Your beauty should not come from outward adornment, such as elaborate hairstyles and the wearing of gold jewelry or fine clothes. 4 Rather, it should be that of your inner self, the unfading beauty of a gentle and quiet spirit, which is of great worth in God’s sight. 5 For this is the way the holy women of the past who put their hope in God used to adorn themselves. They submitted themselves to their own husbands, 6 like Sarah, who obeyed Abraham and called him her lord. You are her daughters if you do what is right and do not give way to fear.
-                                                      
-                                                      7 Husbands, in the same way be considerate as you live with your wives, and treat them with respect as the weaker partner and as heirs with you of the gracious gift of life, so that nothing will hinder your prayers.
-                                                      
-                                                      Suffering for Doing Good
-                                                      8 Finally, all of you, be like-minded, be sympathetic, love one another, be compassionate and humble. 9 Do not repay evil with evil or insult with insult. On the contrary, repay evil with blessing, because to this you were called so that you may inherit a blessing. 10 For,
-                                                      
-                                                      “Whoever would love life
-                                                          and see good days
-                                                      must keep their tongue from evil
-                                                          and their lips from deceitful speech.
-                                                      11 They must turn from evil and do good;
-                                                          they must seek peace and pursue it.
-                                                      12 For the eyes of the Lord are on the righteous
-                                                          and his ears are attentive to their prayer,
-                                                      but the face of the Lord is against those who do evil.”[a]
-                                                      
-                                                      13 Who is going to harm you if you are eager to do good? 14 But even if you should suffer for what is right, you are blessed. “Do not fear their threats[b]; do not be frightened.”[c] 15 But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect, 16 keeping a clear conscience, so that those who speak maliciously against your good behavior in Christ may be ashamed of their slander. 17 For it is better, if it is God’s will, to suffer for doing good than for doing evil. 18 For Christ also suffered once for sins, the righteous for the unrighteous, to bring you to God. He was put to death in the body but made alive in the Spirit. 19 After being made alive,[d] he went and made proclamation to the imprisoned spirits— 20 to those who were disobedient long ago when God waited patiently in the days of Noah while the ark was being built. In it only a few people, eight in all, were saved through water, 21 and this water symbolizes baptism that now saves you also—not the removal of dirt from the body but the pledge of a clear conscience toward God.[e] It saves you by the resurrection of Jesus Christ, 22 who has gone into heaven and is at God’s right hand—with angels, authorities and powers in submission to him.
-  </p>
+                                  <p>
+                                                                                      3 See what great love the Father has lavished on us, that we should be called children of God! And that is what we are! The reason the world does not know us is that it did not know him. 2 Dear friends, now we are children of God, and what we will be has not yet been made known. But we know that when Christ appears,[a] we shall be like him, for we shall see him as he is. 3 All who have this hope in him purify themselves, just as he is pure.
+              
+                                                                            4 Everyone who sins breaks the law; in fact, sin is lawlessness. 5 But you know that he appeared so that he might take away our sins. And in him is no sin. 6 No one who lives in him keeps on sinning. No one who continues to sin has either seen him or known him.
+                                                                            
+                                                                            7 Dear children, do not let anyone lead you astray. The one who does what is right is righteous, just as he is righteous. 8 The one who does what is sinful is of the devil, because the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the devil’s work. 9 No one who is born of God will continue to sin, because God’s seed remains in them; they cannot go on sinning, because they have been born of God. 10 This is how we know who the children of God are and who the children of the devil are: Anyone who does not do what is right is not God’s child, nor is anyone who does not love their brother and sister.
+                                                                            
+                                                                            More on Love and Hatred
+                                                                            11 For this is the message you heard from the beginning: We should love one another. 12 Do not be like Cain, who belonged to the evil one and murdered his brother. And why did he murder him? Because his own actions were evil and his brother’s were righteous. 13 Do not be surprised, my brothers and sisters,[b] if the world hates you. 14 We know that we have passed from death to life, because we love each other. Anyone who does not love remains in death. 15 Anyone who hates a brother or sister is a murderer, and you know that no murderer has eternal life residing in him.
+                                                                            
+                                                                            16 This is how we know what love is: Jesus Christ laid down his life for us. And we ought to lay down our lives for our brothers and sisters. 17 If anyone has material possessions and sees a brother or sister in need but has no pity on them, how can the love of God be in that person? 18 Dear children, let us not love with words or speech but with actions and in truth.
+                                                                            
+                                                                            19 This is how we know that we belong to the truth and how we set our hearts at rest in his presence: 20 If our hearts condemn us, we know that God is greater than our hearts, and he knows everything. 21 Dear friends, if our hearts do not condemn us, we have confidence before God 22 and receive from him anything we ask, because we keep his commands and do what pleases him. 23 And this is his command: to believe in the name of his Son, Jesus Christ, and to love one another as he commanded us. 24 The one who keeps God’s commands lives in him, and he in them. And this is how we know that he lives in us: We know it by the Spirit he gave us.
+                                                                              
+                                    </p>
           </div>
 
-          <div className={styles.card2}
-          >
+            <div className={styles.card2}>
             <h2 className={styles.chapter2}>I John Chapter IV </h2>
-            <p>
-                                                                              Living for God
-                                                        4 Therefore, since Christ suffered in his body, arm yourselves also with the same attitude, because whoever suffers in the body is done with sin. 2 As a result, they do not live the rest of their earthly lives for evil human desires, but rather for the will of God. 3 For you have spent enough time in the past doing what pagans choose to do—living in debauchery, lust, drunkenness, orgies, carousing and detestable idolatry. 4 They are surprised that you do not join them in their reckless, wild living, and they heap abuse on you. 5 But they will have to give account to him who is ready to judge the living and the dead. 6 For this is the reason the gospel was preached even to those who are now dead, so that they might be judged according to human standards in regard to the body, but live according to God in regard to the spirit.
-                                                        
-                                                        7 The end of all things is near. Therefore be alert and of sober mind so that you may pray. 8 Above all, love each other deeply, because love covers over a multitude of sins. 9 Offer hospitality to one another without grumbling. 10 Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace in its various forms. 11 If anyone speaks, they should do so as one who speaks the very words of God. If anyone serves, they should do so with the strength God provides, so that in all things God may be praised through Jesus Christ. To him be the glory and the power for ever and ever. Amen.
-                                                        
-                                                        Suffering for Being a Christian
-                                                        12 Dear friends, do not be surprised at the fiery ordeal that has come on you to test you, as though something strange were happening to you. 13 But rejoice inasmuch as you participate in the sufferings of Christ, so that you may be overjoyed when his glory is revealed. 14 If you are insulted because of the name of Christ, you are blessed, for the Spirit of glory and of God rests on you. 15 If you suffer, it should not be as a murderer or thief or any other kind of criminal, or even as a meddler. 16 However, if you suffer as a Christian, do not be ashamed, but praise God that you bear that name. 17 For it is time for judgment to begin with God’s household; and if it begins with us, what will the outcome be for those who do not obey the gospel of God? 18 And,
-                                                        
-                                                        “If it is hard for the righteous to be saved,
-                                                            what will become of the ungodly and the sinner?”[a]
-                                                        
-                                                        19 So then, those who suffer according to God’s will should commit themselves to their faithful Creator and continue to do good.
-
-            </p>
-          </div>
+                            <p>
+                                                                  On Denying the Incarnation
+                                                4 Dear friends, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world. 2 This is how you can recognize the Spirit of God: Every spirit that acknowledges that Jesus Christ has come in the flesh is from God, 3 but every spirit that does not acknowledge Jesus is not from God. This is the spirit of the antichrist, which you have heard is coming and even now is already in the world.
+                                                
+                                                4 You, dear children, are from God and have overcome them, because the one who is in you is greater than the one who is in the world. 5 They are from the world and therefore speak from the viewpoint of the world, and the world listens to them. 6 We are from God, and whoever knows God listens to us; but whoever is not from God does not listen to us. This is how we recognize the Spirit[a] of truth and the spirit of falsehood.
+                                                
+                                                God’s Love and Ours
+                                                7 Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God. 8 Whoever does not love does not know God, because God is love. 9 This is how God showed his love among us: He sent his one and only Son into the world that we might live through him. 10 This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins. 11 Dear friends, since God so loved us, we also ought to love one another. 12 No one has ever seen God; but if we love one another, God lives in us and his love is made complete in us.
+                                                
+                                                13 This is how we know that we live in him and he in us: He has given us of his Spirit. 14 And we have seen and testify that the Father has sent his Son to be the Savior of the world. 15 If anyone acknowledges that Jesus is the Son of God, God lives in them and they in God. 16 And so we know and rely on the love God has for us.
+                                                
+                                                God is love. Whoever lives in love lives in God, and God in them. 17 This is how love is made complete among us so that we will have confidence on the day of judgment: In this world we are like Jesus. 18 There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love.
+                                                
+                                                19 We love because he first loved us. 20 Whoever claims to love God yet hates a brother or sister is a liar. For whoever does not love their brother and sister, whom they have seen, cannot love God, whom they have not seen. 21 And he has given us this command: Anyone who loves God must also love their brother and sister.       
+  
+                            </p>
+                              
+                        </div>
           <div className={styles.card2}
           >
             <h2 className={styles.chapter2}>I John Chapter V</h2>
                               <p> 
-                                                                                                  To the Elders and the Flock
-                                                        5 To the elders among you, I appeal as a fellow elder and a witness of Christ’s sufferings who also will share in the glory to be revealed: 2 Be shepherds of God’s flock that is under your care, watching over them—not because you must, but because you are willing, as God wants you to be; not pursuing dishonest gain, but eager to serve; 3 not lording it over those entrusted to you, but being examples to the flock. 4 And when the Chief Shepherd appears, you will receive the crown of glory that will never fade away.
-                                                        
-                                                        5 In the same way, you who are younger, submit yourselves to your elders. All of you, clothe yourselves with humility toward one another, because,
-                                                        
-                                                        “God opposes the proud
-                                                            but shows favor to the humble.”[a]
-                                                        
-                                                        6 Humble yourselves, therefore, under God’s mighty hand, that he may lift you up in due time. 7 Cast all your anxiety on him because he cares for you.
-                                                        
-                                                        8 Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour. 9 Resist him, standing firm in the faith, because you know that the family of believers throughout the world is undergoing the same kind of sufferings.
-                                                        
-                                                        10 And the God of all grace, who called you to his eternal glory in Christ, after you have suffered a little while, will himself restore you and make you strong, firm and steadfast. 11 To him be the power for ever and ever. Amen.
-                                                        
-                                                        Final Greetings
-                                                        12 With the help of Silas,[b] whom I regard as a faithful brother, I have written to you briefly, encouraging you and testifying that this is the true grace of God. Stand fast in it.
-                                                        
-                                                        13 She who is in Babylon, chosen together with you, sends you her greetings, and so does my son Mark. 14 Greet one another with a kiss of love.
-                                                        
-                                                        Peace to all of you who are in Christ.
-  
-  </p>
+                                                                                                                                         Faith in the Incarnate Son of God
+                                                5 Everyone who believes that Jesus is the Christ is born of God, and everyone who loves the father loves his child as well. 2 This is how we know that we love the children of God: by loving God and carrying out his commands. 3 In fact, this is love for God: to keep his commands. And his commands are not burdensome, 4 for everyone born of God overcomes the world. This is the victory that has overcome the world, even our faith. 5 Who is it that overcomes the world? Only the one who believes that Jesus is the Son of God.
+                                                
+                                                6 This is the one who came by water and blood—Jesus Christ. He did not come by water only, but by water and blood. And it is the Spirit who testifies, because the Spirit is the truth. 7 For there are three that testify: 8 the[a] Spirit, the water and the blood; and the three are in agreement. 9 We accept human testimony, but God’s testimony is greater because it is the testimony of God, which he has given about his Son. 10 Whoever believes in the Son of God accepts this testimony. Whoever does not believe God has made him out to be a liar, because they have not believed the testimony God has given about his Son. 11 And this is the testimony: God has given us eternal life, and this life is in his Son. 12 Whoever has the Son has life; whoever does not have the Son of God does not have life.
+                                                
+                                                Concluding Affirmations
+                                                13 I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life. 14 This is the confidence we have in approaching God: that if we ask anything according to his will, he hears us. 15 And if we know that he hears us—whatever we ask—we know that we have what we asked of him.
+                                                
+                                                16 If you see any brother or sister commit a sin that does not lead to death, you should pray and God will give them life. I refer to those whose sin does not lead to death. There is a sin that leads to death. I am not saying that you should pray about that. 17 All wrongdoing is sin, and there is sin that does not lead to death.
+                                                
+                                                18 We know that anyone born of God does not continue to sin; the One who was born of God keeps them safe, and the evil one cannot harm them. 19 We know that we are children of God, and that the whole world is under the control of the evil one. 20 We know also that the Son of God has come and has given us understanding, so that we may know him who is true. And we are in him who is true by being in his Son Jesus Christ. He is the true God and eternal life.
+                                                
+                                                21 Dear children, keep yourselves from idols.
+
+
+                              </p>
           </div>
 
    

@@ -226,7 +226,7 @@ Final Greetings
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/john_hero.png"
+                                                    src="/first_john.png"
                                                     alt="john_hero.png"
                                                     height={900}
                                                     width={2000}

@@ -565,6 +565,131 @@ Final Greetings
       </main>
 
 
+<main id="third_john" className={styles.main}>
+       
+        <div id="first_thessalonians" className={styles.hero}>
+                <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        <h1 className={styles.title}>
+       III JOHN
+        </h1>
+          <div className={styles.image}>
+                           <Image 
+                                                    src="/first_john.png"
+                                                    alt="john_hero.png"
+                                                    height={900}
+                                                    width={2000}
+                                                    priority
+                                                  />
+                          
+
+                        </div>
+    <p className={styles.parables}>
+
+         Third John will have description soon
+</p>                                                      
+                  <div className={styles.nav2}>           
+      <a href="https://romans-five.vercel.app/#james">
+             <Image 
+                                src="/previous.webp"
+                                alt="prev"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+        
+      <a href="https://cash.app/$JNutt367">
+              <Image className={styles.arrow}
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
+                                height={75}
+                                width={90}
+                                priority
+                              /> 
+       </a>
+         <a href="https://first-thessalonians.vercel.app/">
+           <Image 
+                                src="/next.webp"
+                                alt="next"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+               <div className={styles.iframe}> 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/l3QkE6nKylM?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                     
+                                  </div>
+                                  
+                              
+        <div className={styles.grid2}>
+          <div className={styles.card2}>
+           <h2  className={styles.chapter2}>III John</h2>
+                                    <p> 
+                                                                                                                            1 The elder,
+                                                                                    
+                                                                                    To my dear friend Gaius, whom I love in the truth.
+                                                                                    
+                                                                                    2 Dear friend, I pray that you may enjoy good health and that all may go well with you, even as your soul is getting along well. 3 It gave me great joy when some believers came and testified about your faithfulness to the truth, telling how you continue to walk in it. 4 I have no greater joy than to hear that my children are walking in the truth.
+                                                                                    
+                                                                                    5 Dear friend, you are faithful in what you are doing for the brothers and sisters,[a] even though they are strangers to you. 6 They have told the church about your love. Please send them on their way in a manner that honors God. 7 It was for the sake of the Name that they went out, receiving no help from the pagans. 8 We ought therefore to show hospitality to such people so that we may work together for the truth.
+                                                                                    
+                                                                                    9 I wrote to the church, but Diotrephes, who loves to be first, will not welcome us. 10 So when I come, I will call attention to what he is doing, spreading malicious nonsense about us. Not satisfied with that, he even refuses to welcome other believers. He also stops those who want to do so and puts them out of the church.
+                                                                                    
+                                                                                    11 Dear friend, do not imitate what is evil but what is good. Anyone who does what is good is from God. Anyone who does what is evil has not seen God. 12 Demetrius is well spoken of by everyone—and even by the truth itself. We also speak well of him, and you know that our testimony is true.
+                                                                                    
+                                                                                    13 I have much to write you, but I do not want to do so with pen and ink. 14 I hope to see you soon, and we will talk face to face.
+                                                                                    
+                                                                                    15 Peace to you. The friends here send their greetings. Greet the friends there by name.
+                                                                                    
+                        
+                        
+                                    </p>
+          </div>
+
+         
+          <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
+            <p>
+            I have appended 1 Thessalonians to the bottom of 1 corinthians...
+            I have appended 2 Thessalonians to the bottom of 2 corinthians...
+            I have appended 1 Timothy to the bottom of the gospel of Matthew...
+            I have appended 2 Timothy to the bottom of the gospel of Mark...
+            I have appended Titus to the bottom of the gospel of Luke...
+            I have appended Philemon to the bottom of the gospel of John...
+            I have appended Hebrews to the bottom of the book of Acts ...
+            I have appended James to the bottom of Romans ...
+            I have appended I Peter to the bottom of Galatians
+            I have appended II Peter to the bottom of I Peter ...
+            I have appended I John to the bottom of Ephesians ...  
+            I have appended II John to the bottom of I John ...
+            I have appended III John to the bottom of II John ...
+            I will be appending Jude to the bottom of Philippians ...
+                        More to come on the layout...!
+     </p>
+          </div>
+
+
+     
+
+        </div>
+</div>
+        <p className={styles.description}> 
+        <code className={styles.publisher}>
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </code>
+        </p>
+      </main>
+
+
+              
 
                           
             

@@ -55,8 +55,8 @@ export default function Home() {
                                   <Image 
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -67,8 +67,8 @@ export default function Home() {
            <Image 
                                 src="/next.webp"
                                 alt="right arrow"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            

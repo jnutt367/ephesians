@@ -16,39 +16,38 @@ export default function Home() {
          <div className={styles.hero}>
              <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://thewordofgodrisen.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
         EPHESIANS
         </h1>
-         <div  className={styles.image}>
-       <Image 
-                                src="/risen_32.png"
-                                alt="mug image"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+         <div  className={styles.iframe}>
+     <iframe width="100%" height="315" src="https://www.youtube.com/embed/oE9qqW1-BkU?si=wq7KnC90JtJmZx4N&autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
         </div>
 
   <p className={styles.parables}>
-In prison, Paul defines the REAL church--NOT a building built BY people, but MADE up OF all Christians who ever LIVED!
+"For this reason I kneel before the Father, 15 from whom every family[a] in heaven and on earth derives its name." Ephesians 3:14
                                   
   </p>
                     <div className={styles.nav}>           
       <a href="https://galatians.vercel.app/">
+    <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="left"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
          <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
-            <Image 
+
+                                  <p>Give</p>
+                                  
+                                  <Image 
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
                                  height={75}
@@ -58,6 +57,8 @@ In prison, Paul defines the REAL church--NOT a building built BY people, but MAD
            
         </a> 
          <a href="https://phillipians.vercel.app/">
+
+<p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="right arrow"

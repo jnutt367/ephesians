@@ -41,7 +41,7 @@ export default function Home() {
         </div>
 
   <p className={styles.parables}>
-"For this reason I kneel before the Father, 15 from whom every family[a] in heaven and on earth derives its name." Ephesians 3:14
+".. I kneel before the Father, from whom every family in heaven and on earth derives its name." ~ Ep. 3:14
                                   
   </p>
                     <div className={styles.nav}>           

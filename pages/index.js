@@ -474,7 +474,7 @@ Final Greetings
                         </div>
     <p className={styles.parables}>
 
-         Second John will have description soon I am working through it now...
+        It has given me great joy to find some of your children walking in the truth, as the Father commanded us. 
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/#james">
@@ -563,7 +563,14 @@ Final Greetings
      </p>
           </div>
 
-
+     <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>This Card is for the Layout to work...</h2>
+            <p>
+            What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+     </p>
+          </div>
      
 
         </div>
@@ -594,7 +601,7 @@ Final Greetings
                         </div>
     <p className={styles.parables}>
 
-         Third John will have description soon styling out today...
+         I pray that you may enjoy good health and that all may go well with you, even as your soul is getting along well.
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/#james">

@@ -272,7 +272,7 @@ Final Greetings
                                 priority
                               /> 
        </a>
-         <a href="https://first-thessalonians.vercel.app/">
+         <a href="https://ephesians.vercel.app/#second_john">
     <p>Next</p>
                                   
            <Image 
@@ -499,7 +499,7 @@ Final Greetings
                                 priority
                               /> 
        </a>
-         <a href="https://first-thessalonians.vercel.app/">
+         <a href="https://ephesians.vercel.app/#third_john">
                           <p>Next</p>
            <Image 
                                 src="/next.webp"

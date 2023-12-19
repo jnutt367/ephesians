@@ -247,7 +247,7 @@ Final Greetings
                         </div>
     <p className={styles.parables}>
 
-        The life appeared; we have seen it and testify to it, and we proclaim to you the eternal life, ..
+        The life appeared; we have seen it and testify to it, and we proclaim to you the eternal life, which was with the Father...
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/#james">

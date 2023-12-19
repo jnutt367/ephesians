@@ -604,7 +604,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                         </div>
     <p className={styles.parables}>
 
-         I pray that you may enjoy good health and that all may go well with you, even as your soul is getting along well.
+         I pray you may enjoy good health and that all may go well with you, even as your soul is getting along well.
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/#james">
